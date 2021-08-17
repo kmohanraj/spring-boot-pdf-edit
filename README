@@ -1,0 +1,6 @@
+#### Create a new Maven project
+
+##### Dependencies are,
+    * task
+    * JDBC
+    * H2
